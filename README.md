@@ -1,0 +1,2 @@
+# java learning
+Problem Statement: Smart Examination, Performance & Academic Risk Prediction System  Develop a Java-based system that manages student examinations, marks, grades, and attendance while analyzing academic performance to identify subject-wise strengths, weaknesses, and students at academic risk. The system automatically evaluates results, generates personalized performance reports, and provides early-warning insights to help faculty take timely academic support measures.
