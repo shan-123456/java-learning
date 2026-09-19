@@ -1,0 +1,72 @@
+
+============================================================
+              PERSONALIZED PERFORMANCE REPORT
+============================================================
+Generated On : 19-09-2026 09:27:02
+
+STUDENT INFORMATION
+------------------------------------------------------------
+Student ID     : 101
+Student Name   : Alex Mercer
+Department     : Computer Science
+Semester       : 4
+
+EXAMINATION & MARKS
+------------------------------------------------------------
+Data Structures           :  85.00 / 100
+Algorithms                :  42.00 / 100
+Database Systems          :  35.00 / 100
+Operating Systems         :  78.00 / 100
+
+ATTENDANCE ANALYSIS
+------------------------------------------------------------
+Data Structures           :  90.00%   [GOOD]
+Algorithms                :  70.00%   [WARNING]
+Database Systems          :  65.00%   [WARNING]
+Operating Systems         :  88.00%   [GOOD]
+
+RESULT SUMMARY
+------------------------------------------------------------
+Total Marks       : 240.00 / 400
+Average Marks     : 60.00%
+Average Attendance: 78.25%
+Grade             : C
+Failed Subjects   : 1
+
+SUBJECT-WISE PERFORMANCE ANALYSIS
+------------------------------------------------------------
+Strongest Subject : Data Structures (85.00%)
+Weakest Subject   : Database Systems (35.00%)
+
+STRONG SUBJECTS
+------------------------------------------------------------
+✓ Data Structures - 85.00%
+✓ Operating Systems - 78.00%
+
+WEAK SUBJECTS
+------------------------------------------------------------
+⚠ Database Systems - 35.00%
+⚠ Algorithms - 42.00%
+
+ACADEMIC RISK PREDICTION
+------------------------------------------------------------
+Risk Score : 40 / 100
+Risk Level : MEDIUM
+
+EARLY-WARNING INSIGHTS
+------------------------------------------------------------
+⚠ Failed/low score detected in Database Systems.
+⚠ Attendance below 75% in Algorithms.
+⚠ Attendance below 75% in Database Systems.
+
+FACULTY SUPPORT RECOMMENDATIONS
+------------------------------------------------------------
+→ Monitor the student's performance in upcoming assessments.
+→ Encourage additional practice in weak subjects.
+→ Improve attendance in Algorithms.
+→ Improve attendance in Database Systems.
+→ Arrange remedial support for Database Systems.
+
+============================================================
+          END OF PERSONALIZED REPORT
+============================================================
